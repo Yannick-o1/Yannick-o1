@@ -1,3 +1,3 @@
-Hi, I’m @Yannick-o1
+I’m Yannick
 
-Currently buliding shit
+Currently buliding shit...
