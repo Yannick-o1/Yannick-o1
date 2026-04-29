@@ -1,3 +1,1 @@
-- I'm Yannick
-- I am building things
-- contact: yannickofungi@gmail.com
+ - contact: yannickofungi@gmail.com
