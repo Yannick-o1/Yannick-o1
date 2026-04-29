@@ -1,1 +1,1 @@
- - contact: yannickofungi@gmail.com
+yannickofungi@gmail.com
